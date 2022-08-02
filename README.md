@@ -2,6 +2,6 @@
 
 ## This is my sample list
 
--I
--Like
--Turtles
+- I
+- Like
+- Turtles
